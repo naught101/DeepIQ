@@ -1,0 +1,176 @@
+Table 1:
+    Advancement Roll: 1-9
+    1-4: Do nothing.
+    5-8: Put a 1/1 token on the battlefield (-4).
+    9-10: Sacrifice your best creature unless pay 1 or discard a card unless pay 1 
+
+Table 2:
+    Advancement Roll: 1-8
+    1-2: Do nothing.
+    3-7: Put a 2/2 token on the battlefield (+0).
+	8: Move Deep IQ up to Table 4 and deals 2 damage to you
+	9: Destroy your best creature unles pay 2 or discard a card at random unless pay 2.
+	10: Roll on Spooky Chart (-4)
+
+Table 3:
+    Advancement Roll: 1-7
+    1-2: Do nothing but Deep IQ rolls on once on anyone's turn:
+        1-4: do nothing
+        5-10: destroy best creature unless pay 4.
+    3-4: Put a 2/2 token on the battlefield (+2).
+	5:  Put a 2/1 token on the battlefield (+4).
+	6-7: Move Deep IQ up to Table 5 and put 2 1/1 token on the battlefield (+1).
+	8: Put a 1/1 token on the battlefield (+1) and Deep IQ gets a free roll on Table 2.
+	9: Sacrifice your best creature and land.
+	10: Destroy your best artifact or enchantment and roll on Spooky Chart (-3).
+
+    Table 4:
+    Advancement Roll: 1-6
+    1-2: Do nothing but Deep IQ rolls once on anyone's turn:
+        1-4: do nothing
+        5-10: counter target spell unless pay 3.
+    3-4: 3 damage to you or a planeswalker you control
+	5: Exile your best creature unless pay 3 or roll on Spook Chart (-5)
+	6: Put a 3/3 Token on the battlefield (+0) Deep IQ gets a free roll on Table 3.
+	7: Destroy your best artifact or enchantment and discard a card at random.
+	8: Put a 4/4 token on the battlefield (+3).
+	9: Put a 2/4 token on the battlefield (+7) or roll on Spooky Chart (-1).
+	10: Roll on Spooky Chart (+1).
+
+    Table 5:
+    Advancement Roll: 1-5
+    1-2: Do nothing but Deep IQ rolls
+		1-3: do nothing
+		4-10: destroy best creature twice on anyone's turn.
+    3-4: Put a 3/4 token on the battlefield (+4) or roll on Spooky Chart (-3).
+	5: Put a 2/2 token on the battlefield (+2) and Deep IQ gets a free roll on Table 3.
+	6: Put three 2/2 tokens on the battlefield (-4, roll once) or 4 damage to you or a planeswalker
+	7: Put two 3/1 token on the battlefield (-2).
+	8: Put a 4/4 token on the battlefield (+5).
+	9: Sacrifice your best creature or roll on Spooky Chart (+2).
+	10: Roll on Spooky Chart (+3).
+
+
+Table 6:
+    Advancement Roll: 1-4
+    1-2: Do nothing but Deep IQ rolls
+		1-3: do nothing
+		4-10: counter taget spell.
+		twice on anyone's turn.
+    3-5: Sacrifice a land, creature, and artifact and put three 1/1 tokens on the battlefield (-3)
+	6: Put two 2/2 token on the battlefield (+4, roll once) or roll on Spooky Chart (-2).
+	7: Put a 5/5 token on the battlefield (+7 , roll twice choose the best one).
+	8: Destroy your best creature and you take 6 damage and free roll on Table 2.
+	9: Exile your best creature and discard 2 cards or roll on Spooky Chart (+3).
+	10: Roll on Spooky Chart (+4).
+
+
+Table 7:
+    Advancement Roll: None
+	1: Do nothing but has
+		1-2: do nothing,
+		3-5: 3 damage to you or a planeswalker
+		6-8: destroy best creature
+		9-10: counter target spell
+		at least three times on anyone's turn.
+    2-3: Play two 3/3 tokens on the battlefield (+2 roll once) or roll on Spooky Chart (-2)
+    4-5: Deep IQ plays a
+		1-4: enchantment
+		5-7: artifact or
+		8-10: 2 2/2 creatures that has: "when you cast a spell with converted mana cost 3 or less, ~ deals 2 damage to you" or "(1-3) Artifacts (4-7) Creatures (8-10) Non-creature spells you play cost 2 more to play"  # not sure what this means
+	6: 7 damge to you and to creatures you control and destroy target artifact or enchantment
+	7: Lose 5 life, discard 3 cards, sacrifice a creature;
+		Deep IQ gains 5 life, get's free roll on Table 3 and Table 4
+	8: Deep IQ plays a 6/6 creature with:
+		1-4: lifelink and deathtouch, when it dies put 2 3/3 tokens
+		5-8: "when this card enters the battlefield or attacks, it deal 3 damage divided to creatures or players you choose"
+		9: Flying and "At the beginning of each combat, any opponent may sacrifice a creature.  If a player does, tap this creature and put a +1/+1 counter on it."
+		10: Creatures you control gain +3/+3, Firststrike and lifelink until end of turn
+		Deep IQ gets -2 penalty on it's next roll
+	9: Deep IQ destroys best non-basic land and best creature in play, search your library
+		graveyard and hand for all copies and exile them.
+	10: Roll on Spooky Chart (+5) and Deep IQ gains control of your next turn
+	11+: Roll on Spooky chart three times and pick the best one (+7)
+
+
+Spooky Chart:
+	Approx CMC: 2 to 15
+	0-1: Deep IQ plays an enchantment token. While this is on the battlefield, all of its creature tokens gain +1/+1.
+	2: Deep IQ plays an artifact token. While this is on the battlefield
+		reroll the first "Do nothing" result of every turn and gets a free roll on Table 1 after this play.
+	3: Deep IQ plays an enchantment token. While this is on the battlefield, Deep IQ gets +1 to all die rolls and gets a free roll on Table 1 after this play.
+	4: Destroy all of your creatures, or all of your artifacts,or all of your enchantments. Treat Deep IQ's next roll as "Do nothing of Table 3."
+	5: Deep IQ gains 5 life and moves up to Table 6 if it isn't already there. if already at Table 6 gain 7 life instead and move to Table 7
+	6: You take 10 damage or Deep IQ plays an enchantment that has (can be played on your turn):
+        1-4: destroy artifact or enchantment, 
+        5-6: deal 3 damage to you, 
+        7-8: destroy best creature
+        9-10: counter target spell. Deep IQ gets -3 penalty on X rolls, where X number of times it was used
+	7: Deep IQ plays an artifact token. While this is on the battlefield, it gets three table rolls every turn and takes two out of three
+	8: Destroy all of your lands of one basic type (whichever is most inconvenient). Treat Deep IQ's next roll as "Do nothing of Table 4."
+	9: if on Table 5-VII Exile the top twenty cards in your library. Otherwise put 15 cards from your library to your graveyard
+	10: Deep IQ plays an artifact token. When this comes on the battlefield,
+		tap your best permanent and it remains tapped as long as this artifact remains on
+		the battlefield. If you lose your best creature, the next best permanent becomes tapped, and so on.
+	11: All of Deep IQ's tokens get a free roll on the token chart (+0).These additional abilities are permanent.
+		Or Deep IQ plays a token that's treated as a planeswalker with a fixed loyalty of 5
+		and has one roll each of Deep IQ's turn. 
+        1-2: gain 2 life; 
+        3-4: puts a 2/2 token
+        5-6: gets a free roll on Table 3; 
+        7-8: roll on spooky chart (-3) 
+        9-10: gets a free roll on Table 7 (-3)
+	12: Deep IQ plays an enchantment token. While this is on the battlefield,
+		it gets a free roll on Table 3 every time one of its permanents is destroyed or exiled.
+	13: Deep IQ plays a spell that gains 20 life and gets a free roll on Table 7 (-3).
+	14: Deep IQ plays an artifact that has: "target creature gets +2/+2 and protection from
+		two colors" (refer to token abilities Colour Chart) and when it deals damage to a player it
+        1-2: deal to damage to target creature or player 
+        3-4: put a 2/2 token into the battlefield
+        5-6: discards a card at random 
+        7-8: gain 4 life 
+        9-10: deal damage equal to the cards in hand
+	15: Deep IQ plays a token that's treated as a planeswalker with a fixed loyalty of 7
+		and has one roll after three of Deep IQ's turn. 
+        1-2: puts an X/X token where X is twice Deep IQ's life
+        3-4: Flips 5 coins and takes extra turns equal to the number of heads
+        5-6: puts 4 5/5 tokens with flying and trample
+        7-8: return all creatures from graveyards into play under Deep IQ's control
+        9-10: target player exiles his library and puts his hand back to the library and shuffles it
+	16: Deep IQ plays one of the following: 
+        1-3: 12/12 token that has trample, indestrutible and infect
+        4-8: 10/10 token that is indestrutible and has "whenever this creature enters the battlefield, exile up to two target permanents." and "whenever this creature attacks exile the top 20 cards of your library"
+        9-10: 15/15 that flying, protection from colored spells and Annhialator 6
+	17: Deep IQ plays a spell that destroys all of your permanents.
+		Treat Deep IQ's next roll as "Do nothing." or Deep IQ plays a spell that takes an extra turn after this one.
+
+Token Chart:
+	0-1: No extra abilities.
+	2: +2/+0 and first strike.
+	3: Regeneration or gets "+2/+0 until end of turn". If the creature uses this ability,
+		gets-2 penalty per instance for Deep IQ's next roll
+	4: +0/+3 and defender and has "tap get a free roll on table 1".
+	5: +1/+2 First strike and reach or +1/+2 unblockable/vigilance (choose one only from "/")
+	6: Protection from: (see Colour Chart).
+		or gets "has indestructible until end of turn -2 penalty on next roll".
+	7: Deathtouch or hexproof or gets "each other creature you control gets +1/+1".
+	8: +2/+2, flying, lifelink or get "sacrifice a creature: gets +2/+0 and menace until end of turn".
+	9: +2/+2 Haste and trample or +3/+0 menace
+	10: Roll two more times on this table, with (+2) modifier. or +1/+1 doublestrike
+	11: +2/+1 Flying  or gets +1/+1 and "when this creature enters the battlefield exile target card in hand until creature leaves the battlefield".
+	12: +2/+0 Protection from a color (see Colour Chart) and vigilance or gets +1/+1 and "when this creature
+		 enters the battlefield, exile target creature in play until this creature leaves the battlefield".
+	13: When this creature enters the battlefield, choose one:
+		Sacrifice one of your creatures at random
+		Discard a card at random
+		Deep IQ gains control of taget creature until end of turn, it has haste.
+	14: +4/+4 First strike/unblockable and hexproof/lifelink. (choose one only from "/")
+		Or gets "when a player plays a spell on your turn or when this creature dies
+		put an X/X token into play where X is the number of creatures you control."
+	15: Protection from a color (see Colour Chart), deathtouch, one more roll with the same modifier, or gets "when this creature dies, put X 1/1 tokens where X is the creature's power"
+	16: When this creature enters the battlefield or dies, exile target permanent you control.
+	17+: When this creature enters the battlefield choose two:
+		Lose X life and Deep IQ gains X life where X is the number of creatures in play
+		Up to two target creatures get  four +1/+1 counters and doublestrike
+		All creatures get +5/+5 and trample until end of turn.
+		Put 2 3/3 token on the field. (+3, roll twice)
