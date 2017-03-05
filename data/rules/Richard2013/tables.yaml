@@ -1,28 +1,29 @@
 Table 1:
+    Advancement: 1-9
     1-7: Do nothing.
     8: Sacrifice your best creature.
     9-10: Put a 1/1 token on the battlefield (-4).
-Advancement: 1-9
 
 Table 2:
+    Advancement: 1-8
     1-4: Do nothing.
     5-7: Put a 2/2 token on the battlefield (+0).
-    8: Move Deep IQ up to Table IV.
+    8: Move Deep IQ up to Table 4.
     9-10: Exile your best creature.
-Advancement: 1-8
 
 Table 3:
+    Advancement: 1-7
     1-3: Do nothing.
     4: Put a 2/2 token on the battlefield (+2).
     5: Put a 2/1 token on the battlefield (+4).
     6: Destroy your best land.
-    7: Move Deep IQ up to Table V and put a 1/1 token on the battlefield (+0).
-    8: Put a 1/1 token on the battlefield (+1) and Deep IQ gets a free roll on Table II.
+    7: Move Deep IQ up to Table 5 and put a 1/1 token on the battlefield (+0).
+    8: Put a 1/1 token on the battlefield (+1) and Deep IQ gets a free roll on Table 2.
     9: Sacrifice your best creature.
     10: Destroy your best artifact or roll on Spooky Chart (-2).
-Advancement: 1-7
 
 Table 4:
+    Advancement: 1-6
     1-3: Do nothing.
     4: Put a 4/4 token on the battlefield (+3).
     5: Sacrifice your best creature.
@@ -31,20 +32,20 @@ Table 4:
     8: Sacrifice your two best creatures or take 4 damage.
     9: Put a 2/4 token on the battlefield (+7) or roll on Spooky Chart (-1).
     10: Roll on Spooky Chart (+0).
-Advancement: 1-6
 
 Table 5:
+    Advancement: 1-5
     1-3: Do nothing.
     4: Put a 3/4 token on the battlefield (+4).
-    5: Put a 2/2 token on the battlefield (+2) and Deep IQ gets a free roll on Table III.
+    5: Put a 2/2 token on the battlefield (+2) and Deep IQ gets a free roll on Table 3.
     6: Destroy your best creature, enchantment, or artifact.
     7: Put a 4/4 token on the battlefield (+1).
     8: Destroy all lands or put a 4/1 token on the battlefield (+3).
     9: Sacrifice your best creature or roll on Spooky Chart (+1).
     10: Roll on Spooky Chart (+2).
-Advancement: 1-5
 
 Table 6:
+    Advancement: None
     1-3: Do nothing.
     4: Sacrifice all lands, creatures, and artifacts or put a 2/4 token on the battlefield (+3).
     5: Put a 4/5 token on the battlefield (+6).
@@ -52,12 +53,12 @@ Table 6:
     8: Destroy your best artifact, enchantment, or land.
     9: Exile your best creature or roll on Spooky Chart (+3).
     10: Roll on Spooky Chart (+4).
-Advancement: None
 
 Token Chart:
     0-1: No extra abilities.
     2: +2/+0 and first strike.
-    3: Regeneration. If the creature uses this ability, subtract 2 from Deep IQ's next roll.
+    3: Regeneration.
+        If the creature uses this ability, subtract 2 from Deep IQ's next roll.
     4: +0/+3 and defender.
     5: First strike.
     6: Protection from:
@@ -73,20 +74,31 @@ Token Chart:
     16+: When this creature enters the battlefield, exile target permanent you control.
 
 Spooky Chart:
-    0-1: Deep IQ plays an enchantment token. While this is on the battlefield, all of its creature tokens gain +1/+1.
-    2: Deep IQ plays an artifact token. While this is on the battlefield, reroll the first "Do nothing" result of every turn.
-    3: Deep IQ plays an enchantment token. While this is on the battlefield, Deep IQ gets +1 to all die rolls.
-    4: Destroy all of your creatures, or all of your artifacts, or all of your enchantments. Treat Deep IQ's next roll as "Do nothing."
-    5: Deep IQ gains 5 life and moves up to Table VI if it isn't already there.
+    0-1: Deep IQ plays an enchantment token.
+        While this is on the battlefield, all of its creature tokens gain +1/+1.
+    2: Deep IQ plays an artifact token.
+        While this is on the battlefield, reroll the first 'Do nothing' result of every turn.
+    3: Deep IQ plays an enchantment token.
+        While this is on the battlefield, Deep IQ gets +1 to all die rolls.
+    4: Destroy all of your creatures, or all of your artifacts, or all of your enchantments.
+        Treat Deep IQ's next roll as 'Do nothing'.
+    5: Deep IQ gains 5 life and moves up to Table 6 if it isn't already there.
     6: You take 10 damage.
-    7: Deep IQ plays an artifact token. While this is on the battlefield, it gets two table rolls every turn and takes the best one.
-    8: Destroy all of your lands of one basic type (whichever is most inconvenient). Treat Deep IQ's next roll as "Do nothing."
+    7: Deep IQ plays an artifact token.
+        While this is on the battlefield, it gets two table rolls every turn and takes the best one.
+    8: Destroy all of your lands of one basic type (whichever is most inconvenient).
+        Treat Deep IQ's next roll as 'Do nothing'.
     9: Exile the top twenty cards in your library.
-    10: Deep IQ plays an artifact token. When this comes on the battlefield, tap your best creature and it remains tapped as long as this artifact remains on the battlefield. If you lose your best creature, the next best creature becomes tapped, and so on.
-    11: All of Deep IQ's tokens get a free roll on the token chart (+0). These additional abilities are permanent.
-    12: Deep IQ plays an enchantment token. While this is on the battlefield, it gets a free roll on Table II every time one of its permanents is destroyed or exiled.
+    10: Deep IQ plays an artifact token.
+        When this comes on the battlefield, tap your best creature and it remains tapped as long as this artifact remains on the battlefield.
+        If you lose your best creature, the next best creature becomes tapped, and so on.
+    11: All of Deep IQ's tokens get a free roll on the token chart (+0).
+        These additional abilities are permanent.
+    12: Deep IQ plays an enchantment token.
+        While this is on the battlefield, it gets a free roll on Table 2 every time one of its permanents is destroyed or exiled.
     13: Deep IQ gains 20 life.
-    14+: Destroy all of your permanents. Treat Deep IQ's next roll as "Do nothing."
+    14+: Destroy all of your permanents.
+        Treat Deep IQ's next roll as 'Do nothing'.
 
 Colour Chart:
     1-3:  Black
@@ -94,4 +106,3 @@ Colour Chart:
     7-8:  Red
     9:  Blue
     10:  Green
-

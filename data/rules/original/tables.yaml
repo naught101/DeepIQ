@@ -1,17 +1,18 @@
 Table 1:
+    Advancement: 1-9
     1-8: Do nothing.
     9: Bury your best creature.
     10: Put a 1/1 token into play (-4).
-    Advancement: 1-9
 
 Table 2:
+    Advancement: 1-8
     1-4: Do nothing.
     5-7: Put a 2/2 token into play (+0).
     8: Move Deep IQ up to Table 4.
     9-10: Remove your best creature from the game.
-    Advancement: 1-8
 
 Table 3:
+    Advancement: 1-7
     1-3: Do nothing.
     4: Put a 2/2 token into play (+2).
     5: Put a 2/1 token into play (+4).
@@ -20,9 +21,9 @@ Table 3:
     8: Put a 1/1 token into play (+1) and Deep IQ gets a free roll on Table 2.
     9: Bury your best creature.
     10: Destroy your best artifact or roll on Spooky Chart (-2).
-    Advancement: 1-7
 
 Table 4:
+    Advancement: 1-4
     1-3: Do nothing.
     4: Put a 4/4 token into play (+3).
     5: Bury your best creature.
@@ -31,9 +32,9 @@ Table 4:
     8: Bury your two best creatures or you take 4 damage.
     9: Put a 2/4 token into play (+7) or roll on Spooky Chart (-1).
     10: Roll on Spooky Chart (+0).
-    Advancement: 1-4
 
 Table 5:
+    Advancement: 1-4
     1-3: Do nothing.
     4: Put a 3/4 token into play (+4).
     5: Put a 2/2 token into play (+2) and Deep IQ gets a free roll on Table 3.
@@ -42,9 +43,9 @@ Table 5:
     8: Destroy all lands or put a 4/1 token into play (+3).
     9: Bury your best creature or roll on Spooky Chart (+1).
     10: Roll on Spooky Chart (+2).
-    Advancement: 1-4
 
 Table 6:
+    Advancement: None
     1-3: Do nothing.
     4: Bury all lands, creatures and artifacts or put a 2/4 token into play (+3).
     5: Put a 4/5 token into play (+6).
@@ -52,43 +53,54 @@ Table 6:
     8: Destroy your best artifact, enchantment or land.
     9: Remove your best creature from the game or roll on Spooky Chart (+3).
     10: Roll on Spooky Chart (+4).
-    Advancement: None
 
 Token Chart:
     0-1: No extra abilities.
     2: +1/+0 and flanking.
-    3: Regeneration. If Deep IQ uses this ability, subtract 2 from its next roll.
+    3: Regeneration.
+        If Deep IQ uses this ability, subtract 2 from its next roll.
     4: +0/+1 and banding.
     5: First strike.
-    6: Protection from (see Protection Chart).
+    6: Protection from (see Colour Chart).
     7: Landwalk (see Landwalk Chart).
     8: +2/+2, flying, phasing.
     9: Unaffected by summoning sickness and trample.
     10: Roll two more times on this table, with no modifier.
     11: Flying and {tap}: Deal 1 damage to target creature or player.
-    12: Protection from a color (see Protection Chart) and doesn't tap to attack.
+    12: Protection from a color (see Colour Chart) and doesn't tap to attack.
     13: When creature comes into play, bury one of your creatures at random.
     14: Flanking and cannot be targeted by spells or effects.
-    15: Protection from a color (see Protection Chart), landwalk (see Landwalk Chart), one more roll with the same modifier and your weakest creature becomes unblockable.
+    15: Protection from a color (see Colour Chart), landwalk (see Landwalk Chart), one more roll with the same modifier and your weakest creature becomes unblockable.
     16: {tap}: Remove target permanent from the game.
 
 Spooky Chart:
-    0-1: Deep IQ plays an enchantment token. While this is in play, all of its tokens gain +1/+1.
-    2: Deep IQ plays an artifact token. While this is in play, reroll the first 'Do nothing' result of every turn.
-    3: Deep IQ plays an enchantment token. While this is in play, Deep IQ gets +1 to all die rolls.
-    4: Destroy all of your creatures, or all of your artifacts, or all of your enchantments. Treat Deep IQ's next roll as 'Do nothing'.
+    0-1: Deep IQ plays an enchantment token.
+        While this is in play, all of its tokens gain +1/+1.
+    2: Deep IQ plays an artifact token.
+        While this is in play, reroll the first 'Do nothing' result of every turn.
+    3: Deep IQ plays an enchantment token.
+        While this is in play, Deep IQ gets +1 to all die rolls.
+    4: Destroy all of your creatures, or all of your artifacts, or all of your enchantments.
+        Treat Deep IQ's next roll as 'Do nothing'.
     5: Deep IQ gains 5 life and moves up to Table 6 if it isn't already there.
     6: You take 10 damage.
-    7: Deep IQ plays an artifact token. While this is in play, it gets two table rolls every turn and takes the best one.
-    8: Destroy all of your lands of one basic type (whichever is most inconvenient). Treat Deep IQ's next roll as 'Do nothing'.
+    7: Deep IQ plays an artifact token.
+        While this is in play, it gets two table rolls every turn and takes the best one.
+    8: Destroy all of your lands of one basic type (whichever is most inconvenient).
+        Treat Deep IQ's next roll as 'Do nothing'.
     9: Remove the top 20 cards in your library from the game.
-    10: Deep IQ plays an artifact token. While this is in play, your best creature is considered tapped. If you lose your best creature, the next best creature becomes tapped, and so on.
-    11: All of Deep IQ's tokens get a free roll on the token chart (+0). These abilities are permanent.
-    12: Deep IQ plays an enchantment token. While this is in play, it gets a free roll on Table 2 every time one of its permanents is destroyed or buried.
+    10: Deep IQ plays an artifact token.
+        While this is in play, your best creature is considered tapped.
+        If you lose your best creature, the next best creature becomes tapped, and so on.
+    11: All of Deep IQ's tokens get a free roll on the token chart (+0).
+        These abilities are permanent.
+    12: Deep IQ plays an enchantment token.
+        While this is in play, it gets a free roll on Table 2 every time one of its permanents is destroyed or buried.
     13: Deep IQ gains 20 life.
-    14: Destroy all of your permanents. Treat Deep IQ's next roll as 'Do nothing'.
+    14: Destroy all of your permanents.
+        Treat Deep IQ's next roll as 'Do nothing'.
 
-Protection Chart:
+Colour Chart:
     1-3:  Black
     4-6:  White
     7-8:  Red
